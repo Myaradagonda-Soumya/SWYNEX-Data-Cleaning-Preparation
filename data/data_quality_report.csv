@@ -1,0 +1,10 @@
+Metric,Result
+Original rows,123
+Original columns,12
+Duplicate rows removed,3
+Rows after cleaning,120
+Missing Age handled,24
+Invalid Salary values handled,0
+Missing Email handled,3
+Date conversion applied,Yes
+Department/Region split,Yes
